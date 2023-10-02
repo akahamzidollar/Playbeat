@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231338134998",
+    "project_id": "playbeat-15fdf",
+    "storage_bucket": "playbeat-15fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231338134998:android:d0be01e0abdcedf1a8a877",
+        "android_client_info": {
+          "package_name": "com.example.playbeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1XVfAXlbdEHSOZ9rXGrou_18mAfNL5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
